@@ -1,0 +1,21 @@
+{
+  "name": "qatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvdokiqGeorgieva/QAtask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvdokiqGeorgieva/QAtask/issues"
+  },
+  "homepage": "https://github.com/EvdokiqGeorgieva/QAtask#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
